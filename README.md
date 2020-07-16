@@ -1,13 +1,15 @@
 # Problem
 
-    Read this:   
-		-	"coding_challenge.pdf"
+    Read this:
+    	-	"coding_challenge.pdf"
 
 ## Usage
-	For run use:
-		```python
-			py .\main.py
-		```
+
+    For run use:
+
+```python
+py .\main.py
+```
 
     Restrictions:
     - Max cordinate (5,5)
